@@ -62,7 +62,7 @@ fi
 }
 
 # Run for each program
-for program in NUMBERS EMPPAY DEPTPAY; do
+for program in ALPHA NUMBERS EMPPAY DEPTPAY; do
   run_cobolcheck $program
 done
 
